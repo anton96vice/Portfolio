@@ -3,8 +3,9 @@ The Following notebook is an exploratory work performed by me. The code is writt
 
 
 ## Notebooks
-*The "challenge" work demonstrates ability to analyze and manipulate data, extract and create new features, and train the random trees regression model to predict the dependent variable
-*The notebook 'pipelines' show my ability to create a machine learning pipeline to execute the training of a model
+
+#The "challenge" work demonstrates ability to analyze and manipulate data, extract and create new features, and train the random trees regression model to predict the dependent variable
+#The notebook 'pipelines' show my ability to create a machine learning pipeline to execute the training of a model
 
 	
 ## Examples
