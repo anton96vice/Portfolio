@@ -8,7 +8,7 @@ The Following notebook is an exploratory work performed by me. The code is writt
 
 	
 ## Examples
-![Correlation Matrix](./images/corr.jpg)
+![Correlation Matrix](./images/corr.png)
 ##Skills demonstrated
 *Numpy
 *Pandas
