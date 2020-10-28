@@ -7,7 +7,7 @@ Portfolio projects for Machine Learning Engineer
 ![Correlation](./imgs/Screen Shot 2020-10-27 at 8.46.05 PM.png)
 ![Histogram](Screen Shot 2020-10-27 at 8.46.19 PM.png)
 ![Correlation]
-![Box Plot](./imgs/Screen Shot 2020-10-27 at 8.27.21 PM.png)
+![Box Plot](https://github.com/anton96vice/Portfolio/blob/main/imgs/Screen%20Shot%202020-10-27%20at%208.27.21%20PM.png)
 ## Table of Contents by topic
 * [Graphs, Data cleaning, Feature engineering, Preprocessing, EDA](#MATH-STUDENTS-ANALYSIS)
 * [Linear Regression, GridSearch crossvalidation, Data cleaning](#Predicting-Bitcoin-Price-trends)
