@@ -2,8 +2,8 @@
 Portfolio projects for Machine Learning Engineer
 ## Demonstration Images
 ![Comparing Models to actual data](/Portfolio/imgs/Screen Shot 2020-10-27 at 8.46.50 PM.png)
-![IQR](./imgs/Screen Shot 2020-10-27 at 8.27.49 PM.png)
-![Pipelines](./imgs/Screen Shot 2020-10-27 at 8.45.40 PM.png)
+![IQR](https://github.com/anton96vice/Portfolio/blob/main/imgs/Screen%20Shot%202020-10-27%20at%208.27.49%20PM.png)
+![Pipelines](./imgs/Screen-Shot-2020-10-27-at-8.45.40 PM.png)
 ![Correlation](./imgs/Screen Shot 2020-10-27 at 8.46.05 PM.png)
 ![Histogram](Screen Shot 2020-10-27 at 8.46.19 PM.png)
 ![Correlation]
