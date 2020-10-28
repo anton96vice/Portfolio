@@ -10,16 +10,16 @@ The Following notebook is an exploratory work performed by me. The code is writt
 	
 ## Examples
 ![Correlation Matrix](./images/corr.png)
-##Skills demonstrated
-*Numpy
-*Pandas
-*Matplotlib
-*ScikitLearn
-*Pipelines
-*EDA
-*Feature engineering
+## Skills demonstrated
+* Numpy
+* Pandas
+* Matplotlib
+* ScikitLearn
+* Pipelines
+* EDA
+* Feature engineering
 
-#Functions:
+# Functions:
 ```
 def time_to_now(row):
     if row['date_of_Review'] == []:
