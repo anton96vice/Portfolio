@@ -1,6 +1,6 @@
 # General information
-The following project is based on the student performance dataset. 
-The scope of the project is to analyze the information and learn python features for extracting useful information from the data
+ 
+The scope of the project is to analyze the information and learn python features for extracting useful information from the data and visualizing and plotting the data 
 
 ## Lessons Learned:
 * data cleaning
@@ -8,5 +8,3 @@ The scope of the project is to analyze the information and learn python features
 * feature engineering
 * plotting
 
-## Dataset info
-"gender","race/ethnicity","parental level of education","lunch","test preparation course","math score","reading score","writing score"
