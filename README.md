@@ -11,9 +11,9 @@ __Portfolio for Machine Learning Engineer__
 - [Links to my Profiles](#Links)
 
 ## About Me
-    Hello and welcome to my GitHub. My name is Anton, I am 24 years old FIU graduate in Philosophy and Psychology. Currently an aspiring AI Engineer.
-    For the past 5 years my main occupation has been entrepreneurship: I have started and sucessfully sold several businesses within the US and Mexico in the spheres of WaterSports, Eco-tourism, and Food Industry. As the Corona VIrus has struck, my skillset of tourism entrepreneur has become practically useless and I decided to expand my portfolio with new skillset. My research and curiosity brought me to machine learning. As a type of person who __finds the creative solutions to the problems__, __communicates the needs to the wide variety of institutions__, and __builds teams__, it is my goal to become a project manager at an AI project. Combined with my passion for nature and others, I tend to utilize my skillset of an ML engineer and project leader to __build the solutions for the bright future__, whether it would be __Neuropsychological innovations__ per my concentration in college, or __Nutrition solutions__ as per my own experience and self-education being a two-year old __Ketogenic diet and Healthy lifestyle proposer__.  
-    I have to be honest with you, I am not the person who would sit in the office and find bugs in the code assigned by my __Agile__ leader. I am the man of creativity, passion, and constant improvement. This is the stage in my life where I learn and absorb. My main objective at this stage is to gain as much knowledge in the ML and AI industry to propell my mind to create solutions as well as learn how to work in IT teams. As my funds are only slowly depleting, I need a source of income to survive, that is why I am __#OPENTOWORK__ in the industry related to my interests mentioned in this column. Please, don't hesitate looking around the portfolio and message in _Telegram_ **@alicedoesacid** or _gmail_ **(anton96vice@gmail.com)** with new opportunities. I don't promise to be a long-time worker, but I can promise you I will push above and beyond on the projects that align with my passions.
+   Hello and welcome to my GitHub. My name is Anton, I am 24 years old FIU graduate in Philosophy and Psychology. Currently an aspiring AI Engineer.
+   For the past 5 years my main occupation has been entrepreneurship: I have started and sucessfully sold several businesses within the US and Mexico in the spheres of WaterSports, Eco-tourism, and Food Industry. As the Corona VIrus has struck, my skillset of tourism entrepreneur has become practically useless and I decided to expand my portfolio with new skillset. My research and curiosity brought me to machine learning. As a type of person who __finds the creative solutions to the problems__, __communicates the needs to the wide variety of institutions__, and __builds teams__, it is my goal to become a project manager at an AI project. Combined with my passion for nature and others, I tend to utilize my skillset of an ML engineer and project leader to __build the solutions for the bright future__, whether it would be __Neuropsychological innovations__ per my concentration in college, or __Nutrition solutions__ as per my own experience and self-education being a two-year old __Ketogenic diet and Healthy lifestyle proposer__.  
+      I have to be honest with you, I am not the person who would sit in the office and find bugs in the code assigned by my __Agile__ leader. I am the man of creativity, passion, and constant improvement. This is the stage in my life where I learn and absorb. My main objective at this stage is to gain as much knowledge in the ML and AI industry to propell my mind to create solutions as well as learn how to work in IT teams. As my funds are only slowly depleting, I need a source of income to survive, that is why I am __#OPENTOWORK__ in the industry related to my interests mentioned in this column. Please, don't hesitate looking around the portfolio and message in _Telegram_ **@alicedoesacid** or _gmail_ **(anton96vice@gmail.com)** with new opportunities. I don't promise to be a long-time worker, but I can promise you I will push above and beyond on the projects that align with my passions.
 
 ## Work Experience
 The Following is the full list of my work Experience, the skills I have acquired there, and the jobs I have performed.
@@ -56,29 +56,29 @@ I joined Jetboat Miami as a jetski tour guide, eventually becoming a supervisor 
 * Fixing scratches and holes on the PWCs.
 ### Manager
 Dolphin Family tours - Merritt Island, FL September 2017 to May 2018.  
-General manager, advertising
-• Responsible for running 10 employee boating company
-• Managed marketing, advertising, sales, revenue planning, inventory management, and customer relations
-• Handled day-to-day operations
-• Managed shifts
-• Handled all sales, revenue, and payroll reporting
-• Made weekly deposits
-• Kept sales volume high by risk management and optimising scheduling system. Increased the revenue of the company 300% by optimising the spending and unnecessary expenditures
-• Assured customer satisfaction at all times
-• Trained assistant managers, captains, and ad managers
+General manager, advertising.  
+* Responsible for running 10 employee boating company
+* Managed marketing, advertising, sales, revenue planning, inventory management, and customer relations
+* Handled day-to-day operations
+* Managed shifts
+* Handled all sales, revenue, and payroll reporting
+* Made weekly deposits
+* Kept sales volume high by risk management and optimising scheduling system. Increased the revenue of the company 300% by optimising the spending and unnecessary expenditures
+* Assured customer satisfaction at all times
+* Trained assistant managers, captains, and ad managers
 ### Manager
 Roll-on Roll-out constructions - Sarasota, FL September 2013 to August 2015.  
-General manager and master
-• Responsible for running the working truck
-• Supervised 3 employees
-• Managed marketing, advertising, sales, revenue planning, inventory management, and customer relations 
-• Generated sales, revenue, and payroll reports
-• Handled day-to-day operations
-• Handled the daily counts
-• Assured excellent customer experience at all times
-• Recruited new hires by job ads
-• Set schedules
-• Made weekly deposits
+General manager and master.  
+* Responsible for running the working truck
+* Supervised 3 employees
+* Managed marketing, advertising, sales, revenue planning, inventory management, and customer relations 
+* Generated sales, revenue, and payroll reports
+* Handled day-to-day operations
+* Handled the daily counts
+* Assured excellent customer experience at all times
+* Recruited new hires by job ads
+* Set schedules
+* Made weekly deposits
 ### Customer Service Representative
 Jimmy John's Sandwiches - Sarasota, FL August 2014 to January 2015.  
 * Worked long shifts where I was responsible for cutting the meats, making sandwiches freaky fast, and ensuring the customer satisfaction
