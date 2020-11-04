@@ -29,17 +29,17 @@ Nemo Submarine Del Caribe - Quintana Roo, Yuc. August 2010 to Present
 ### Assistant Manager
 Jetboat Miami - Miami, FL September 2019 to March 2020.  
 Office manager and General manager, accounting and technical manager of the boating and water sports company.  
-• Oversaw 10 employees
-• Handled day-to-day operations
-• Handled marketing, advertising, sales, revenue planning, inventory management, and customer relations
-• Handled all sales, revenue, and payroll reporting
-• Recruited new hires by HR, hired people from indeed and Craigslist. Also friends of employees • Responsible for customer relations
-• Handled drawer cash outs
-• Made daily deposits
-• Created schedule
-• Handled opening and closing of office
-• Kept warehouse and trailer park clean
-• Supervised the whole personnel
+* Oversaw 10 employees
+* Handled day-to-day operations
+* Handled marketing, advertising, sales, revenue planning, inventory management, and customer relations
+* Handled all sales, revenue, and payroll reporting
+* Recruited new hires by HR, hired people from indeed and Craigslist. Also friends of employees • Responsible for customer relations
+* Handled drawer cash outs
+* Made daily deposits
+* Created schedule
+* Handled opening and closing of office
+* Kept warehouse and trailer park clean
+* Supervised the whole personnel
 ### Jetski Tour Guide
 Jetboat Miami - Miami, FL January 2019 to September 2019.  
 I joined Jetboat Miami as a jetski tour guide, eventually becoming a supervisor for The Base (tour guides). My duties included:
@@ -119,7 +119,7 @@ Now the most important for you to know about me - my skillset. This list is cons
 
 ## Resume
 * [A link to my full resume](https://github.com/anton96vice/Portfolio/blob/main/Anton-Vice.pdf)
-* [Shortened version of my resume] (https://github.com/anton96vice/Portfolio/blob/main/Resume.pdf)
+* [Shortened version of my resume](https://github.com/anton96vice/Portfolio/blob/main/Resume.pdf)
 
 ## Links
 - [LinkedIn](https://www.linkedin.com/in/anton-vice-89563a180/)
