@@ -11,7 +11,7 @@ __Portfolio for Machine Learning Engineer__
 - [Links to my Profiles](#Links)
 
 ## About Me
-<img src="https://github.com/anton96vice/Portfolio/blob/main/imgs/118939180_144641860659174_2891684691636715468_o.jpg" width="300" height="250" /> .  
+<img src="https://github.com/anton96vice/Portfolio/blob/main/imgs/118939180_144641860659174_2891684691636715468_o.jpg" width="300" height="200" /> .  
 
    Hello and welcome to my GitHub. My name is Anton, I am 24 years old FIU graduate in Philosophy and Psychology. Currently an aspiring AI Engineer.
    For the past 5 years my main occupation has been entrepreneurship: I have started and sucessfully sold several businesses within the US and Mexico in the spheres of WaterSports, Eco-tourism, and Food Industry. As the Corona VIrus has struck, my skillset of tourism entrepreneur has become practically useless and I decided to expand my portfolio with new skillset. My research and curiosity brought me to machine learning. As a type of person who __finds the creative solutions to the problems__, __communicates the needs to the wide variety of institutions__, and __builds teams__, it is my goal to become a project manager at an AI project. Combined with my passion for nature and others, I tend to utilize my skillset of an ML engineer and project leader to __build the solutions for the bright future__, whether it would be __Neuropsychological innovations__ per my concentration in college, or __Nutrition solutions__ as per my own experience and self-education being a two-year old __Ketogenic diet and Healthy lifestyle proposer__.  
