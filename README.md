@@ -9,6 +9,7 @@ __Portfolio for Machine Learning Engineer__
 - [Resume](#resume)
 - [Demonstration Images](#Demonstration-images)
 - [Links to my Profiles](#Links)
+- [My_projects](#projects-by-skill)
 
 ## About Me
 <img src="https://github.com/anton96vice/Portfolio/blob/main/imgs/118939180_144641860659174_2891684691636715468_o.jpg" width="300" height="400" /> .  
@@ -132,6 +133,7 @@ Now the most important for you to know about me - my skillset. This list is cons
 * [Linear Regression, GridSearch crossvalidation, Data cleaning](https://github.com/anton96vice/Portfolio/tree/main/Predicting%20Bitcoin%20Price%20trends)
 * [Tripadvisor Rating Prediction Project](https://github.com/anton96vice/Portfolio/tree/main/Tripadvisor-Rating-Prediction)
 * [Model Selection](https://github.com/anton96vice/Portfolio/tree/main/Housing-Value-Prediction)
+* [Titanic](https://github.com/anton96vice/Portfolio/tree/main/Kaggle-Titanic)
 
 ## Demonstration Images
 ![Comparing Models to actual data](https://github.com/anton96vice/Portfolio/blob/main/imgs/Screen%20Shot%202020-10-27%20at%208.46.50%20PM.png)
@@ -141,3 +143,4 @@ Now the most important for you to know about me - my skillset. This list is cons
 ![Histogram](https://github.com/anton96vice/Portfolio/blob/main/imgs/Screen%20Shot%202020-10-27%20at%208.46.19%20PM.png)
 ![Box Plot](https://github.com/anton96vice/Portfolio/blob/main/imgs/Screen%20Shot%202020-10-27%20at%208.27.21%20PM.png)
 ![Trees Selection](https://github.com/anton96vice/Portfolio/blob/main/imgs/Screen%20Shot%202020-10-29%20at%208.13.59%20AM.png)
+![Leaderboard](https://github.com/anton96vice/Portfolio/blob/main/imgs/Screen%20Shot%202020-11-04%20at%207.53.45%20AM.png)
