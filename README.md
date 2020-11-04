@@ -1,8 +1,25 @@
 # Portfolio
+__Portfolio projects for Machine Learning Engineer__
+
 ## Table of Contents
-[here](#Demonstration-images)
-Portfolio projects for Machine Learning Engineer
-## Table of Contents by topic
+- [About Me](#about-me)
+- [Work Experience](#work-experience)
+- [Education](#education)
+- [Skill Stack](#skill-stack)
+- [Resume](#resume)
+- [Demonstration Images](#Demonstration-images)
+
+## About Me
+
+## Work Experience
+
+## Education
+
+## Skill Stack
+
+## Resume
+
+## Projects by Skill
 * [Graphs, Data cleaning, Feature engineering, Preprocessing, EDA](https://github.com/anton96vice/Portfolio/tree/main/MATH%20STUDENTS%20ANALYSIS)
 * [Linear Regression, GridSearch crossvalidation, Data cleaning](https://github.com/anton96vice/Portfolio/tree/main/Predicting%20Bitcoin%20Price%20trends)
 * [Tripadvisor Rating Prediction Project](https://github.com/anton96vice/Portfolio/tree/main/Tripadvisor-Rating-Prediction)
