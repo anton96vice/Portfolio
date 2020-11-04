@@ -11,9 +11,9 @@ __Portfolio for Machine Learning Engineer__
 - [Links to my Profiles](#Links)
 
 ## About Me
-  Hello and welcome to my GitHub. My name is Anton, I am 24 years old FIU graduate in Philosophy and Psychology. Currently an aspiring AI Engineer.
-For the past 5 years my main occupation has been entrepreneurship: I have started and sucessfully sold several businesses within the US and Mexico in the spheres of WaterSports, Eco-tourism, and Food Industry. As the Corona VIrus has struck, my skillset of tourism entrepreneur has become practically useless and I decided to expand my portfolio with new skillset. My research and curiosity brought me to machine learning. As a type of person who __finds the creative solutions to the problems__, __communicates the needs to the wide variety of institutions__, and __builds teams__, it is my goal to become a project manager at an AI project. Combined with my passion for nature and others, I tend to utilize my skillset of an ML engineer and project leader to __build the solutions for the bright future__, whether it would be __Neuropsychological innovations__ per my concentration in college, or __Nutrition solutions__ as per my own experience and self-education being a two-year old __Ketogenic diet and Healthy lifestyle proposer__.  
-  I have to be honest with you, I am not the person who would sit in the office and find bugs in the code assigned by my __Agile__ leader. I am the man of creativity, passion, and constant improvement. This is the stage in my life where I learn and absorb. My main objective at this stage is to gain as much knowledge in the ML and AI industry to propell my mind to create solutions as well as learn how to work in IT teams. As my funds are only slowly depleting, I need a source of income to survive, that is why I am __#OPENTOWORK__ in the industry related to my interests mentioned in this column. Please, don't hesitate looking around the portfolio and message in _Telegram_ **@alicedoesacid** or _gmail_ **(anton96vice@gmail.com)** with new opportunities. I don't promise to be a long-time worker, but I can promise you I will push above and beyond on the projects that align with my passions.
+    Hello and welcome to my GitHub. My name is Anton, I am 24 years old FIU graduate in Philosophy and Psychology. Currently an aspiring AI Engineer.
+    For the past 5 years my main occupation has been entrepreneurship: I have started and sucessfully sold several businesses within the US and Mexico in the spheres of WaterSports, Eco-tourism, and Food Industry. As the Corona VIrus has struck, my skillset of tourism entrepreneur has become practically useless and I decided to expand my portfolio with new skillset. My research and curiosity brought me to machine learning. As a type of person who __finds the creative solutions to the problems__, __communicates the needs to the wide variety of institutions__, and __builds teams__, it is my goal to become a project manager at an AI project. Combined with my passion for nature and others, I tend to utilize my skillset of an ML engineer and project leader to __build the solutions for the bright future__, whether it would be __Neuropsychological innovations__ per my concentration in college, or __Nutrition solutions__ as per my own experience and self-education being a two-year old __Ketogenic diet and Healthy lifestyle proposer__.  
+    I have to be honest with you, I am not the person who would sit in the office and find bugs in the code assigned by my __Agile__ leader. I am the man of creativity, passion, and constant improvement. This is the stage in my life where I learn and absorb. My main objective at this stage is to gain as much knowledge in the ML and AI industry to propell my mind to create solutions as well as learn how to work in IT teams. As my funds are only slowly depleting, I need a source of income to survive, that is why I am __#OPENTOWORK__ in the industry related to my interests mentioned in this column. Please, don't hesitate looking around the portfolio and message in _Telegram_ **@alicedoesacid** or _gmail_ **(anton96vice@gmail.com)** with new opportunities. I don't promise to be a long-time worker, but I can promise you I will push above and beyond on the projects that align with my passions.
 
 ## Work Experience
 The Following is the full list of my work Experience, the skills I have acquired there, and the jobs I have performed.
@@ -28,7 +28,8 @@ Nemo Submarine Del Caribe - Quintana Roo, Yuc. August 2010 to Present
 * Own and manage an eco-touristic submarine tour company.
 ### Assistant Manager
 Jetboat Miami - Miami, FL September 2019 to March 2020.  
-Office manager and General manager, accounting and technical manager of the boating and water sports company • Oversaw 10 employees
+Office manager and General manager, accounting and technical manager of the boating and water sports company.  
+• Oversaw 10 employees
 • Handled day-to-day operations
 • Handled marketing, advertising, sales, revenue planning, inventory management, and customer relations
 • Handled all sales, revenue, and payroll reporting
@@ -42,17 +43,17 @@ Office manager and General manager, accounting and technical manager of the boat
 ### Jetski Tour Guide
 Jetboat Miami - Miami, FL January 2019 to September 2019.  
 I joined Jetboat Miami as a jetski tour guide, eventually becoming a supervisor for The Base (tour guides). My duties included:
-> Greeting the customers, supplying the safety equipment such as jackets, whistles, jetski keys
-> Educating the customers on Jetski safety, company policy, local waterways, and laws regarding water vehicles.
-> Driving the truck with 6 jetskis to the ramp in the morning and bringing them back to the storage in the evening > Fueling the jetskis on time
-> Towing jetskis and clamping them to the buoy on the location
-> Saving customers that fall off the PWC
-> Performing the quick fixes on the jetskis such as emptying the storage compartment from water, pulling the trash out of the jet, and checking the engine lights
-> Performing the safety check for the PWC including fire extinguisher, the registration number, and title.
-> Checking customers' knowledge of PWC operation.
-> Guiding the customers on the tour around the Biscayne Bay area and maintaining the order on the water including keeping the customers within the allowed area on the water.
-> Driving the pontoon with customers to the jetski buoy.
-> Fixing scratches and holes on the PWCs.
+* Greeting the customers, supplying the safety equipment such as jackets, whistles, jetski keys
+* Educating the customers on Jetski safety, company policy, local waterways, and laws regarding water vehicles.
+* Driving the truck with 6 jetskis to the ramp in the morning and bringing them back to the storage in the evening > Fueling the jetskis on time
+* Towing jetskis and clamping them to the buoy on the location
+* Saving customers that fall off the PWC
+* Performing the quick fixes on the jetskis such as emptying the storage compartment from water, pulling the trash out of the jet, and checking the engine lights
+* Performing the safety check for the PWC including fire extinguisher, the registration number, and title.
+* Checking customers' knowledge of PWC operation.
+* Guiding the customers on the tour around the Biscayne Bay area and maintaining the order on the water including keeping the customers within the allowed area on the water.
+* Driving the pontoon with customers to the jetski buoy.
+* Fixing scratches and holes on the PWCs.
 ### Manager
 Dolphin Family tours - Merritt Island, FL September 2017 to May 2018.  
 General manager, advertising
@@ -70,7 +71,8 @@ Roll-on Roll-out constructions - Sarasota, FL September 2013 to August 2015.
 General manager and master
 • Responsible for running the working truck
 • Supervised 3 employees
-• Managed marketing, advertising, sales, revenue planning, inventory management, and customer relations • Generated sales, revenue, and payroll reports
+• Managed marketing, advertising, sales, revenue planning, inventory management, and customer relations 
+• Generated sales, revenue, and payroll reports
 • Handled day-to-day operations
 • Handled the daily counts
 • Assured excellent customer experience at all times
