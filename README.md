@@ -121,12 +121,11 @@ Now the most important for you to know about me - my skillset. This list is cons
 | Nutrition Science | Experementation, diets, calculators | blood tests, biomarkers tests|
 
 ## Resume
-* [A link to my full resume](https://github.com/anton96vice/Portfolio/blob/main/Anton-Vice.pdf)
-* [Shortened version of my resume](https://github.com/anton96vice/Portfolio/blob/main/Resume.pdf)
+* [My working Resume](https://github.com/anton96vice/Portfolio/blob/main/AntonViceResume.pdf)
 
 ## Links
 - [LinkedIn](https://www.linkedin.com/in/anton-vice-89563a180/)
-- [My Academic Writings] (https://www.psychedelissimo.wordpress.com/)
+- [My Academic Writings](https://www.psychedelissimo.wordpress.com/)
 
 ## Projects by Skill
 * [Graphs, Data cleaning, Feature engineering, Preprocessing, EDA](https://github.com/anton96vice/Portfolio/tree/main/MATH%20STUDENTS%20ANALYSIS)
