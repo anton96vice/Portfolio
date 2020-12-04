@@ -135,6 +135,7 @@ Now the most important for you to know about me - my skillset. This list is cons
 * [Titanic](https://github.com/anton96vice/Portfolio/tree/main/Kaggle-Titanic)
 * [Belarus Happiness Report | Data Viz](https://github.com/anton96vice/Portfolio/tree/main/Belarus%20Happiness%20Report)
 * [Tensorflow DeepDream](https://github.com/anton96vice/Portfolio/tree/main/DeepDreamAvocado)
+* [Webscraping](https://github.com/anton96vice/Portfolio/tree/main/DEA_Arrests)
 
 ## Demonstration Images
 ![Comparing Models to actual data](https://github.com/anton96vice/Portfolio/blob/main/imgs/Screen%20Shot%202020-10-27%20at%208.46.50%20PM.png)
