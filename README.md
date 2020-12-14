@@ -137,6 +137,10 @@ Now the most important for you to know about me - my skillset. This list is cons
 * [Tensorflow DeepDream](https://github.com/anton96vice/Portfolio/tree/main/DeepDreamAvocado)
 * [Webscraping](https://github.com/anton96vice/Portfolio/tree/main/DEA_Arrests)
 
+## Hackathons
+* [Zoohackathon](https://zoohackathon-2020-europe.devpost.com/) Top 10 with the team "Safari Solutions"
+* [Russian OIL Hackathon](https://vk.com/onlinehackathon) Top 10 with the team "SOILyanka"
+
 ## Demonstration Images
 ![Comparing Models to actual data](https://github.com/anton96vice/Portfolio/blob/main/imgs/Screen%20Shot%202020-10-27%20at%208.46.50%20PM.png)
 ![IQR](https://github.com/anton96vice/Portfolio/blob/main/imgs/Screen%20Shot%202020-10-27%20at%208.27.49%20PM.png)
