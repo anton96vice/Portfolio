@@ -138,7 +138,7 @@ Now the most important for you to know about me - my skillset. This list is cons
 * [Webscraping](https://github.com/anton96vice/Portfolio/tree/main/DEA_Arrests)
 
 ## Hackathons
-* [Zoohackathon](https://zoohackathon-2020-europe.devpost.com/) Top 10 with the team "Safari Solutions"
+* [Zoohackathon](https://zoohackathon-2020-europe.devpost.com/) Top 10 with the team "Safari Solutions" [Certificate](https://github.com/anton96vice/Portfolio/blob/main/imgs/Anton%20Vice.pdf)
 * [Russian OIL Hackathon](https://vk.com/onlinehackathon) Top 10 with the team "SOILyanka"
 
 ## Demonstration Images
