@@ -130,12 +130,14 @@ Now the most important for you to know about me - my skillset. This list is cons
 ## Projects by Skill
 * [Graphs, Data cleaning, Feature engineering, Preprocessing, EDA](https://github.com/anton96vice/Portfolio/tree/main/MATH%20STUDENTS%20ANALYSIS)
 * [Linear Regression, GridSearch crossvalidation, Data cleaning](https://github.com/anton96vice/Portfolio/tree/main/Predicting%20Bitcoin%20Price%20trends)
+* [SQL](https://github.com/anton96vice/Portfolio/tree/main/SQL_Project)
 * [Tripadvisor Rating Prediction Project](https://github.com/anton96vice/Portfolio/tree/main/Tripadvisor-Rating-Prediction)
 * [Model Selection](https://github.com/anton96vice/Portfolio/tree/main/Housing-Value-Prediction)
 * [Titanic](https://github.com/anton96vice/Portfolio/tree/main/Kaggle-Titanic)
 * [Belarus Happiness Report | Data Viz](https://github.com/anton96vice/Portfolio/tree/main/Belarus%20Happiness%20Report)
 * [Tensorflow DeepDream](https://github.com/anton96vice/Portfolio/tree/main/DeepDreamAvocado)
 * [Webscraping](https://github.com/anton96vice/Portfolio/tree/main/DEA_Arrests)
+
 
 ## Hackathons
 * [Zoohackathon](https://zoohackathon-2020-europe.devpost.com/) Top 10 with the team "Safari Solutions" [Certificate](https://github.com/anton96vice/Portfolio/blob/main/imgs/Anton%20Vice.pdf)
