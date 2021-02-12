@@ -16,7 +16,7 @@ __Portfolio for Machine Learning Engineer__
 
    Hello and welcome to my GitHub. My name is Anton, I am 24 years old FIU graduate in Philosophy and Psychology. Currently an aspiring AI Engineer.
    For the past 5 years my main occupation has been entrepreneurship: I have started and sucessfully sold several businesses within the US and Mexico in the spheres of WaterSports, Eco-tourism, and Food Industry. As the Corona VIrus has struck, my skillset of tourism entrepreneur has become practically useless and I decided to expand my portfolio with new skillset. My research and curiosity brought me to machine learning. As a type of person who __finds the creative solutions to the problems__, __communicates the needs to the wide variety of institutions__, and __builds teams__, it is my goal to become a project manager at an AI project. Combined with my passion for nature and others, I tend to utilize my skillset of an ML engineer and project leader to __build the solutions for the bright future__, whether it would be __Neuropsychological innovations__ per my concentration in college, or __Nutrition solutions__ as per my own experience and self-education being a two-year old __Ketogenic diet and Healthy lifestyle proposer__.  
-      I have to be honest with you, I am not the person who would sit in the office and find bugs in the code assigned by my __Agile__ leader. I am the man of creativity, passion, and constant improvement. This is the stage in my life where I learn and absorb. My main objective at this stage is to gain as much knowledge in the ML and AI industry to propell my mind to create solutions as well as learn how to work in IT teams. As my funds are only slowly depleting, I need a source of income to survive, that is why I am __#OPENTOWORK__ in the industry related to my interests mentioned in this column. Please, don't hesitate looking around the portfolio and message in _Telegram_ **@alicedoesacid** or _gmail_ **(anton96vice@gmail.com)** with new opportunities. I don't promise to be a long-time worker, but I can promise you I will push above and beyond on the projects that align with my passions.
+      I have to be honest with you, I am not the person who would sit in the office and find bugs in the code assigned by my __Agile__ leader. I am the man of creativity, passion, and constant improvement. This is the stage in my life where I learn and absorb. My main objective at this stage is to gain as much knowledge in the ML and AI industry to propell my mind to create solutions as well as learn how to work in IT teams. As my funds are only slowly depleting, I need a source of income to survive, that is why I am __#OPENTOWORK__ in the industry related to my interests mentioned in this column. Please, don't hesitate looking around the portfolio and message in _Telegram_ **@nucradkillsrats** or _gmail_ **(anton96vice@gmail.com)** with new opportunities. I don't promise to be a long-time worker, but I can promise you I will push above and beyond on the projects that align with my passions.
 
 ## Work Experience
 The Following is the full list of my work Experience, the skills I have acquired there, and the jobs I have performed.
@@ -116,6 +116,7 @@ Now the most important for you to know about me - my skillset. This list is cons
 |  Data Analytics | Analyze, visualize, preprocess, cleanup, impute, encode data; engineer features and draw insights    | GRETL, Tableau, Python, Numpy, PANDAS, scikitlearn, seaborn, matplotlib    |
 | ML Engineering   | Regression, Classification, Cross-Evaluation, Parameter Tuning, Neural Networks| ScikitLearn, GridsearchCV, Pipelines |
 | SQA   | bug recreation and documentation | Selenium|
+| SQL   | Database creation and Queries | PostgreSQL|
 | Entrepreneurship  | bookkeeping, communication, management | Excel, QuickBooks|
 | Neuropsychology  | experementation and Labwork | N/A |
 | Nutrition Science | Experementation, diets, calculators | blood tests, biomarkers tests|
@@ -125,7 +126,7 @@ Now the most important for you to know about me - my skillset. This list is cons
 
 ## Links
 - [LinkedIn](https://www.linkedin.com/in/anton-vice-89563a180/)
-- [My Academic Writings](https://www.psychedelissimo.wordpress.com/)
+- [My Academic Writings](https://www.linkedin.com/in/anton96vice/detail/recent-activity/posts/)
 
 ## Projects by Skill
 * [Graphs, Data cleaning, Feature engineering, Preprocessing, EDA](https://github.com/anton96vice/Portfolio/tree/main/MATH%20STUDENTS%20ANALYSIS)
