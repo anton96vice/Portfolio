@@ -9,7 +9,7 @@ __Portfolio for Machine Learning Engineer__
 - [Resume](#resume)
 - [Demonstration Images](#Demonstration-images)
 - [Links to my Profiles](#Links)
-- [My_projects](#projects-by-skill)
+- [My_projects](#Projects)
 
 ## About Me
 <img src="https://github.com/anton96vice/Portfolio/blob/main/imgs/118939180_144641860659174_2891684691636715468_o.jpg" width="300" height="400" /> .  
@@ -128,17 +128,8 @@ Now the most important for you to know about me - my skillset. This list is cons
 - [LinkedIn](https://www.linkedin.com/in/anton-vice-89563a180/)
 - [My Academic Writings](https://www.linkedin.com/in/anton96vice/detail/recent-activity/posts/)
 
-## Projects by Skill
-* [Graphs, Data cleaning, Feature engineering, Preprocessing, EDA](https://github.com/anton96vice/Portfolio/tree/main/MATH%20STUDENTS%20ANALYSIS)
-* [Linear Regression, GridSearch crossvalidation, Data cleaning](https://github.com/anton96vice/Portfolio/tree/main/Predicting%20Bitcoin%20Price%20trends)
-* [SQL](https://github.com/anton96vice/Portfolio/tree/main/SQL_Project)
-* [Tableau](https://github.com/anton96vice/Portfolio/tree/main/Tableau)
-* [Tripadvisor Rating Prediction Project](https://github.com/anton96vice/Portfolio/tree/main/Tripadvisor-Rating-Prediction)
-* [Model Selection](https://github.com/anton96vice/Portfolio/tree/main/Housing-Value-Prediction)
-* [Titanic](https://github.com/anton96vice/Portfolio/tree/main/Kaggle-Titanic)
-* [Belarus Happiness Report | Data Viz](https://github.com/anton96vice/Portfolio/tree/main/Belarus%20Happiness%20Report)
-* [Tensorflow DeepDream](https://github.com/anton96vice/Portfolio/tree/main/DeepDreamAvocado)
-* [Webscraping](https://github.com/anton96vice/Portfolio/tree/main/DEA_Arrests)
+## Projects
+* [Projects Folder](https://github.com/anton96vice/Portfolio/tree/main/Projects)
 
 
 ## Hackathons
