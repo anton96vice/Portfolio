@@ -4,3 +4,15 @@
 ## Gretl Analysis:
 * Simple Linear Regression
 ![LR](https://github.com/anton96vice/Portfolio/blob/main/Projects/GRETL/Screen%20Shot%202021-02-13%20at%201.00.56%20PM.png)
+
+* Multiple Logistic Regression
+![MLR](https://github.com/anton96vice/Portfolio/blob/main/Projects/GRETL/Screen%20Shot%202021-02-13%20at%201.39.35%20PM.png)
+
+* multicollinearity
+![MCL](https://github.com/anton96vice/Portfolio/blob/main/Projects/GRETL/multicorr.png)
+
+* Correlation Matrix
+![corr](https://github.com/anton96vice/Portfolio/blob/main/Projects/GRETL/corr.png)
+
+* Adding new variables 
+![var](https://github.com/anton96vice/Portfolio/blob/main/Projects/GRETL/new%20var.png)
