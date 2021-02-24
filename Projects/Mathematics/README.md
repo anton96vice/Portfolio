@@ -2,5 +2,7 @@
 
 ## I have here:
 * [Optimization Problems](https://github.com/anton96vice/Portfolio/tree/main/Projects/Mathematics/Optimization)
-* Mathematical analysis
-* linear algebra
+* [Mathematical analysis]
+* [linear algebra]
+* [Gradient Descent]
+* [Gradient](https://github.com/anton96vice/Portfolio/tree/main/Projects/Mathematics/Gradient)
