@@ -114,12 +114,14 @@ Now the most important for you to know about me - my skillset. This list is cons
 | SkillSet      | Skills | Apps    |
 | :------------- | :----------: | -----------: |
 |  Data Analytics | Analyze, visualize, preprocess, cleanup, impute, encode data; engineer features and draw insights    | GRETL, Tableau, Python, Numpy, PANDAS, scikitlearn, seaborn, matplotlib    |
+|Mathematics | Mat. Analysis, Gradient Descent, Linalg, Optimization | [python and my brain](https://github.com/anton96vice/Portfolio/tree/main/Mathematics)
 | ML Engineering   | Regression, Classification, Cross-Evaluation, Parameter Tuning, Neural Networks| ScikitLearn, GridsearchCV, Pipelines |
 | SQA   | bug recreation and documentation | Selenium|
 | SQL   | Database creation and Queries | PostgreSQL|
 | Entrepreneurship  | bookkeeping, communication, management | Excel, QuickBooks|
 | Neuropsychology  | experementation and Labwork | N/A |
 | Nutrition Science | Experementation, diets, calculators | blood tests, biomarkers tests|
+
 
 ## Resume
 * [My working Resume](https://github.com/anton96vice/Portfolio/blob/main/AntonViceResume.pdf)
